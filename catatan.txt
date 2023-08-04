@@ -1,0 +1,4 @@
+hari pertama bentuk bentuk tipe data dalam Go-lang
+
+silahkan ketik go run [nama file]
+untuk menjalankan bahasa program Go-lang
